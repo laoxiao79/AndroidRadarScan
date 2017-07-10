@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#352E57"
+    tools:context="com.laoxiao.scan.androidradarscan.MainActivity" >
+
+    <com.laoxiao.scan.androidradarscan.ui.RadarScanView
+        android:id="@+id/radar_view"
+        android:layout_width="400px"
+        android:layout_height="400px"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>

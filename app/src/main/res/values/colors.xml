@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f0f0f0</color>
+
+    <color name="appsBG">#0e1b39</color>
+    <color name="white">#ffffff</color>
+    <color name="white_alpha_50">#7fffffff</color>
+    <color name="white_alpha_40">#66ffffff</color>
+    <color name="white_alpha_10">#1affffff</color>
+    <color name="white_alpha_20">#32ffffff</color>
+    <color name="white_alpha_30">#4Dffffff</color>
+    <color name="white_alpha_70">#B3ffffff</color>
+    <color name="color_0879d0">#0879d0</color>
+    <color name="color_00a8ff">#00a8ff</color>
+    <color name="color_main_text_selected">#F0F0F0</color>
+    <color name="color_main_text">#7C7C7C</color>
+
+    <color name="color_edb128">#edb128</color>
+
+    <color name="listItemBg">#1Affffff</color>
+
+    <color name="transparent">#00ffffff</color>
+</resources>
